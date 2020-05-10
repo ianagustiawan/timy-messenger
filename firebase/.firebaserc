@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "timy-staging": "flutter-timy",
+    "flutter-timy": "flutter-timy"
+  }
+}
